@@ -5,3 +5,4 @@ Trying to master js <br>
 3.js opearators<br>
 4.Control structure<br>
 5.Loops<br>
+6.Functions<br>
