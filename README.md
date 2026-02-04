@@ -7,3 +7,4 @@ Trying to master js <br>
 5.Loops<br>
 6.Functions in javascript<br>
 7.concept of array<br>
+8.Concept of object in javascript<br>
