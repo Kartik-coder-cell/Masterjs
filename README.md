@@ -8,3 +8,4 @@ Trying to master js <br>
 6.Functions in javascript<br>
 7.concept of array<br>
 8.Concept of object in javascript<br>
+9.Learn Dom basics like getelementbyid, class etc<br>
