@@ -10,3 +10,4 @@ Trying to master js <br>
 8.Concept of object in javascript<br>
 9.Learn Dom basics like getelementbyid, class etc<br>
 10.Attribute manipulation<br>
+11.Dynamic DOM manipulation<br>
