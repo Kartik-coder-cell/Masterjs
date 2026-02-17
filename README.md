@@ -11,3 +11,4 @@ Trying to master js <br>
 9.Learn Dom basics like getelementbyid, class etc<br>
 10.Attribute manipulation<br>
 11.Dynamic DOM manipulation<br>
+12.Classlist<br>
