@@ -15,3 +15,5 @@ Trying to master js <br>
 13.Event and Eventlistener and Event object<br>
 14.Event bubbling and capturing<br>
 15.Timers and counters<br>
+16.Storage in js<br>
+
