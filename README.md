@@ -13,4 +13,4 @@ Trying to master js <br>
 11.Dynamic DOM manipulation<br>
 12.Classlist<br>
 13.Event and Eventlistener and Event object<br>
-
+14.Event bubbling and capturing<br>
