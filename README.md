@@ -19,3 +19,4 @@ Trying to master js <br>
 17.Variable scope <br>
 18.closures<br>
 19.Encapsulation<br>
+20.this keyword<br>
