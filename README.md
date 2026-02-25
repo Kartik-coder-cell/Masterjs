@@ -18,3 +18,4 @@ Trying to master js <br>
 16.Storage in js<br>
 17.Variable scope <br>
 18.closures<br>
+19.Encapsulation<br>
