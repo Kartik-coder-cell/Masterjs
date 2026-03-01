@@ -20,3 +20,4 @@ Trying to master js <br>
 18.closures<br>
 19.Encapsulation<br>
 20.this keyword<br>
+21.Object oriented programming<br>
