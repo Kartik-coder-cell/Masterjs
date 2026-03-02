@@ -1,4 +1,4 @@
-# Masterjs
+# Master-js
 Trying to master js <br>
 1.Know the concept of let var and const <br>
 2.Data types - primitives and non-primitives<br>
@@ -8,7 +8,7 @@ Trying to master js <br>
 6.Functions in javascript<br>
 7.Concept of array<br>
 8.Concept of object in javascript<br>
-9.Learn Dom basics like getelementbyid, class etc<br>
+9.Learn Dom basics like getElmentbyid, class etc<br>
 10.Attribute manipulation<br>
 11.Dynamic DOM manipulation<br>
 12.Classlist<br>
@@ -25,3 +25,4 @@ Trying to master js <br>
 23.Asynchronous javascript<br>
 24.Callback<br> 
 25.Callbackhell<br>
+26.Promises<br>
