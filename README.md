@@ -26,3 +26,4 @@ Trying to master js <br>
 24.Callback<br> 
 25.Callbackhell<br>
 26.Promises<br>
+27.Promise chaining<br>
